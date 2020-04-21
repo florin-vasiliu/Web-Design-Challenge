@@ -1,0 +1,29 @@
+.mt1 {
+    padding: 10px;
+    background-color:white;
+   
+}
+.p{
+    text-align: left;
+    text-indent: 2em;
+}
+
+.img{
+    float: left;
+    margin: 10px 20px 20px 10px;
+    display: block;
+    border-style:solid;
+    border-color:gray;
+    
+}
+
+.margins-std{
+    margin: 10px 20px 20px 10px;
+}
+
+.img-max-w{
+    max-width: 50%;
+}
+
+
+
